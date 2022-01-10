@@ -42,4 +42,3 @@ Questions ask the paramedic, Bobby
 - <a href="https://github.com/LamaSaeed/ChatBot_DL/"> Lama Saeed</a>
 -  <a href="https://github.com/Afnan-alshehri/daap-learning"> Afnan Alshehri</a>
 - <a href="https://github.com/kholod2/ChatBot_DL"> Khloud ALshehri</a>
-- 
