@@ -19,4 +19,4 @@ Classify each type of data to a list
 
 ## Summary Model
 
-<img src="summary.jpg">
+<img src="summary..jpeg">
