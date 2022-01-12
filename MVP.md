@@ -1,4 +1,4 @@
-#  BoBy_ChatBot_meadical (MVP)
+#  BoBy ChatBot meadical (MVP)
 
 
 ## Goal of the ChatBot :
