@@ -29,12 +29,18 @@ Questions ask the paramedic, Bobby
 
 - chatbot 
 - numby
-- pands
-- Keras
-- instant
+- pandas
 - Html&css
 - Bootstrap
 - Figma
+- Jupyter
+- Pickle
+- Sci-kit learn 
+- Matplotlib
+- Seaborn
+- Keras
+- Tensorflow
+
 
 
 ## Teams
