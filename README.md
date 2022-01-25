@@ -8,7 +8,7 @@ width="500">
 
 First aid is the provision of initial care for an illness or injury, usually performed by a non-expert person to a sick or injured person until definitive medical treatment can be accessed by a professional
 
-This chatbot his name Moisf, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
+This chatbot his name Mosif, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
 
 
 
