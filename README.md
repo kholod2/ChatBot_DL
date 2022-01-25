@@ -21,7 +21,7 @@ This chatbot his name Moisf, He is helps a person to know medical treatment and 
 words to describe the condition of the injured person
 
 - The second is Response:
-Answer for a sick person or injured from chatbot BoBy 
+Answer for a sick person or injured from chatbot Mosif
 
 - The third is patterns:
 Questions ask the paramedic, Mosif
