@@ -1,4 +1,4 @@
-#  BoBy ChatBot meadical (MVP)
+#  Mosif ChatBot meadical (MVP)
 
 
 ## Goal of the ChatBot :
