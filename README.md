@@ -8,7 +8,7 @@ width="500">
 
 First aid is the provision of initial care for an illness or injury, usually performed by a non-expert person to a sick or injured person until definitive medical treatment can be accessed by a professional
 
-This chatbot his name Boby, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
+This chatbot his name Moisf, He is helps a person to know medical treatment and explains to him the methods of treatment for the injury.
 
 
 
@@ -24,7 +24,7 @@ words to describe the condition of the injured person
 Answer for a sick person or injured from chatbot BoBy 
 
 - The third is patterns:
-Questions ask the paramedic, Bobby
+Questions ask the paramedic, Mosif
 
 ## Tools
 
